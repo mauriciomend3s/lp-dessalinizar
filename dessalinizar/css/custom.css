@@ -1,0 +1,63 @@
+.colorBase {
+    background-color: #4BD0EF;
+}
+
+.colorFont {
+    color: #4BD0EF;
+}
+
+.colorSection {
+    background-color: #8FE8F7;
+}
+
+.configNavBar {
+    height: 80px;
+}
+
+.font {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.sizeIcon {
+    height: 80px;
+    width: 80px;
+}
+
+.sizeLogo {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 80px;
+    width: 270px;
+}
+
+.sizeSection {
+    background-size: 500px;
+}
+
+.titulo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sizeParallax {
+    height: 250px;
+}
+
+.sizeIconNew {
+    height: 80px;
+    width: 60px;
+}
+
+.colorBlack {
+    color: black;
+}
+
+.buttonParticipe {
+    height: 65px;
+    width: 190px;
+}
+
+.dist {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
